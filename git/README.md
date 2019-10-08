@@ -1,6 +1,6 @@
 ## Set aliai:
 
-Set `co` to mean `checkout:
+Set `co` to mean `checkout`:
 
 ```bash
 git config --global alias.co checkout
